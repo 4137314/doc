@@ -1,0 +1,6 @@
+name = "doc"
+version = "0.1.0"
+defaultTargets = ["Doc"]
+
+[[lean_lib]]
+name = "Doc"
