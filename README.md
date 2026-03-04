@@ -1,6 +1,6 @@
 # doc
 
-**The Formal Documentation Engine for Lean 4.**
+**A Formal Documentation Engine for Lean 4.**
 
 `doc` is an integrated documentation and typesetting library for Lean 4. It allows researchers and engineers to generate publication-quality LaTeX papers, books, and technical reports directly from verified Lean source code.
 
